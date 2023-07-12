@@ -419,6 +419,16 @@ header ol {
 	background-size: cover;
 	padding: 299px 0 264px 0;
 }
+
+.banner-container-classwork {
+	background-image: url(../images/Background.png);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	padding: 299px 0 264px 0;
+}
+
 .banner-container1 {
 	background-image: url(../images/bgr-benefits.png);
 	background-position: center bottom;
